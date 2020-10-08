@@ -21,5 +21,11 @@
       python通过没有加引号，就认为23是一个数字。
       字符串，如：jcak
       可以通过type()查看变量的数据类型，如type(age)
-    
+  python数据类型，
+  数字int/float，
+  字符串str，
+  列表list，
+  元组tuple，
+  字典dic，
+  集合set，去重，关系运算
                 
